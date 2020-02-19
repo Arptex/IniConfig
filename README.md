@@ -83,3 +83,6 @@ iObject["节点1"]["键1"] = new IniValue (10);
 iObject["节点1"]["键1"].Value = "更新值";		// 适用于字符串的时候
 iObject.Save ();
 ```
+## 感谢
+
+### 此项目由[Jie2GG](https://github.com/jie2gg)编写,派生自[Native.Framework](https://github.com/Jie2GG/Native.Framework)
