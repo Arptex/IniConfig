@@ -1,9 +1,11 @@
-![Framework](https://img.shields.io/badge/.NET-4.5-purple.svg)
+
 ## IniConfig 自述
 	
 	IniConfig 是基于 C# 开发, 针对于 Windows 平台下 Ini 配置文件的一款工具类, 
 	该工具能快速的将 Ini 配置文件的 "节点", "键", "值", "注释" 分开, 在轻松实现对
 	Ini 配置文件的增删改查的同时, 可直接移植到其它平台使用.
+	
+	> 最低平台要求:.NET Framework 4.5
 
 ## IniConfig 示例
 
