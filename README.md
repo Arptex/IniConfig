@@ -1,11 +1,15 @@
+## 感谢
 
+### 此项目由[Jie2GG](https://github.com/jie2gg)编写,派生自[Native.Framework](https://github.com/Jie2GG/Native.Framework) 一个使用C#编写的酷QSDK项目
+
+> 最低平台要求:.NET Framework 4.5
 ## IniConfig 自述
 	
 	IniConfig 是基于 C# 开发, 针对于 Windows 平台下 Ini 配置文件的一款工具类, 
 	该工具能快速的将 Ini 配置文件的 "节点", "键", "值", "注释" 分开, 在轻松实现对
 	Ini 配置文件的增删改查的同时, 可直接移植到其它平台使用.
 	
-	> 最低平台要求:.NET Framework 4.5
+
 
 ## IniConfig 示例
 
@@ -86,6 +90,4 @@ iObject["节点1"]["键1"] = new IniValue (10);
 iObject["节点1"]["键1"].Value = "更新值";		// 适用于字符串的时候
 iObject.Save ();
 ```
-## 感谢
 
-### 此项目由[Jie2GG](https://github.com/jie2gg)编写,派生自[Native.Framework](https://github.com/Jie2GG/Native.Framework) 一个使用C#编写的酷QSDK项目
